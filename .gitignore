@@ -1,0 +1,20 @@
+# Tableau specific
+*.tjl
+*.twbr
+*.twb~
+*.twb.bak
+*.hyper
+*.tds
+*.tdsl
+*.tbm
+*.tms
+*.tps
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+Logs/
+Logs-*
